@@ -5,6 +5,6 @@ import image from "@astrojs/image"
 import tailwind from "@astrojs/tailwind"
 
 export default defineConfig({
-  site: "https://example.com",
+  site: "https://uses.h-9.info",
   integrations: [sitemap(), react(), image(), tailwind()]
 })
